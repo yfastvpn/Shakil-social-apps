@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Shakil Social App",
+  "description": "A social audio platform featuring voice rooms, gifting economy, family systems, and AI-powered chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
